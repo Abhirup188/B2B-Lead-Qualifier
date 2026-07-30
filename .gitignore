@@ -1,0 +1,9 @@
+# Environments
+venv/
+env/
+
+# Secrets & Credentials (CRITICAL)
+.env
+
+# Python Cache
+__pycache__/
