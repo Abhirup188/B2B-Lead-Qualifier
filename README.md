@@ -56,7 +56,7 @@ TAVILY_API_KEY=your_tavily_key_here
 ```Bash
 streamlit run app.py
 ```
-📊 Example Output
+Example Output
 When a lead URL is processed, the agentic swarm generates:
 
 Company Overview: (Size, Sector, Core Product)
@@ -67,15 +67,15 @@ Key Pain Points: (e.g., "Manual data entry overhead," "High customer acquisition
 
 Suggested Outreach Angle: (A highly targeted 2-sentence hook for cold email)
 
-🤝 Contributing
+Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-👨‍💻 Author
+Author
 Abhirup Chakraborty
 
 Multi-Agent AI Architect & Data Systems Developer
 
 Connect on LinkedIn
 
-📄 License
+License
 MIT
